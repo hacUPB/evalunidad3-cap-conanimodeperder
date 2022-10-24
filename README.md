@@ -1,4 +1,5 @@
 # evalunidad3-cap-conanimodeperder
 evalunidad3-cap-conanimodeperder created by GitHub Classroom
-En un inicio no pudimos avanzar enel codigo debido a una mudanza que tuve y problemas familiares, pero despues decidimos separar 
-el codigo para poder organizar la parte donde comenzariamos y decidimos comenzar por lña interfaz
+En un comienzo no pudimos avanzar debido a que uno de los integrantes del equipo de mudaba.
+
+Después decidimos mirar el código por orden de dependencia, pues para hacer el main necesitábamos las ClassStrategy, y para hacer éstas necesitábamos la interfaz, entonces decidimos comenzar por ahí.
