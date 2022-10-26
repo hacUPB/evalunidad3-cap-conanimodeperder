@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "Istrategy.h": "c",
+        "Concretestrategya.h": "c",
+        "string.h": "c",
+        "concretestrategyb.h": "c",
+        "stdio.h": "c"
+    }
+}
